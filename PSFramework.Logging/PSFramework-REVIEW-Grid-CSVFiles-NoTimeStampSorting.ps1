@@ -1,31 +1,31 @@
-#region FIRING UP MODULE STARTER
-#################################################################################################
-#                                                                                               #
-#                                 FIRING UP MODULE STARTER                                      #
-#                                                                                               #
-#################################################################################################
+# #region FIRING UP MODULE STARTER
+# #################################################################################################
+# #                                                                                               #
+# #                                 FIRING UP MODULE STARTER                                      #
+# #                                                                                               #
+# #################################################################################################
 
-# Fetch the script content
-$scriptContent = Invoke-RestMethod "https://raw.githubusercontent.com/aollivierre/module-starter/main/Module-Starter.ps1"
+# # Fetch the script content
+# $scriptContent = Invoke-RestMethod "https://raw.githubusercontent.com/aollivierre/module-starter/main/Module-Starter.ps1"
 
-# Define replacements in a hashtable
-$replacements = @{
-    '\$Mode = "dev"'                     = '$Mode = "dev"'
-    '\$SkipPSGalleryModules = \$false'   = '$SkipPSGalleryModules = $True'
-    '\$SkipCheckandElevate = \$false'    = '$SkipCheckandElevate = $True'
-    '\$SkipAdminCheck = \$false'         = '$SkipAdminCheck = $True'
-    '\$SkipPowerShell7Install = \$false' = '$SkipPowerShell7Install = $True'
-    '\$SkipModuleDownload = \$false'     = '$SkipModuleDownload = $True'
-    '\$SkipGitRepos = \$false'           = '$SkipGitRepos = $true'
-}
+# # Define replacements in a hashtable
+# $replacements = @{
+#     '\$Mode = "dev"'                     = '$Mode = "dev"'
+#     '\$SkipPSGalleryModules = \$false'   = '$SkipPSGalleryModules = $True'
+#     '\$SkipCheckandElevate = \$false'    = '$SkipCheckandElevate = $True'
+#     '\$SkipAdminCheck = \$false'         = '$SkipAdminCheck = $True'
+#     '\$SkipPowerShell7Install = \$false' = '$SkipPowerShell7Install = $True'
+#     '\$SkipModuleDownload = \$false'     = '$SkipModuleDownload = $True'
+#     '\$SkipGitRepos = \$false'           = '$SkipGitRepos = $true'
+# }
 
-# Apply the replacements
-foreach ($pattern in $replacements.Keys) {
-    $scriptContent = $scriptContent -replace $pattern, $replacements[$pattern]
-}
+# # Apply the replacements
+# foreach ($pattern in $replacements.Keys) {
+#     $scriptContent = $scriptContent -replace $pattern, $replacements[$pattern]
+# }
 
-# Execute the script
-Invoke-Expression $scriptContent
+# # Execute the script
+# Invoke-Expression $scriptContent
 
 #endregion FIRING UP MODULE STARTER
 
