@@ -1,0 +1,195 @@
+﻿<Object>
+    <Property Name="ComputerName">DESKTOP-9KHVRUI</Property>
+    <Property Name="File">C:\temp\PSFramework-logging-Logfile-All.ps1</Property>
+    <Property Name="FunctionName">PSFramework-logging-Logfile-All.ps1</Property>
+    <Property Name="Level">Important</Property>
+    <Property Name="Line">35</Property>
+    <Property Name="Message">Hello World in XML</Property>
+    <Property Name="ModuleName">&lt;Unknown&gt;</Property>
+    <Property Name="Runspace">c0f332a8-4ca2-4995-9dc2-d7495d5e5155</Property>
+    <Property Name="Tags"></Property>
+    <Property Name="TargetObject" />
+    <Property Name="Timestamp">8/21/2024 6:23:58 AM</Property>
+    <Property Name="Type">Information, Debug</Property>
+    <Property Name="Username">DESKTOP-9KHVRUI\Admin-Abdullah</Property>
+</Object>
+<Object>
+    <Property Name="ComputerName">DESKTOP-9KHVRUI</Property>
+    <Property Name="File">C:\temp\PSFramework-logging-Logfile-All.ps1</Property>
+    <Property Name="FunctionName">PSFramework-logging-Logfile-All.ps1</Property>
+    <Property Name="Level">Important</Property>
+    <Property Name="Line">35</Property>
+    <Property Name="Message">Hello World in CSV</Property>
+    <Property Name="ModuleName">&lt;Unknown&gt;</Property>
+    <Property Name="Runspace">c0f332a8-4ca2-4995-9dc2-d7495d5e5155</Property>
+    <Property Name="Tags"></Property>
+    <Property Name="TargetObject" />
+    <Property Name="Timestamp">8/21/2024 6:23:59 AM</Property>
+    <Property Name="Type">Information, Debug</Property>
+    <Property Name="Username">DESKTOP-9KHVRUI\Admin-Abdullah</Property>
+</Object>
+<Object>
+    <Property Name="ComputerName">DESKTOP-9KHVRUI</Property>
+    <Property Name="File">C:\temp\PSFramework-logging-Host.ps1</Property>
+    <Property Name="FunctionName">PSFramework-logging-Host.ps1</Property>
+    <Property Name="Level">Important</Property>
+    <Property Name="Line">8</Property>
+    <Property Name="Message">Hello World</Property>
+    <Property Name="ModuleName">&lt;Unknown&gt;</Property>
+    <Property Name="Runspace">c0f332a8-4ca2-4995-9dc2-d7495d5e5155</Property>
+    <Property Name="Tags"></Property>
+    <Property Name="TargetObject" />
+    <Property Name="Timestamp">8/21/2024 6:41:16 AM</Property>
+    <Property Name="Type">Information, Debug</Property>
+    <Property Name="Username">DESKTOP-9KHVRUI\Admin-Abdullah</Property>
+</Object>
+<Object>
+    <Property Name="ComputerName">DESKTOP-9KHVRUI</Property>
+    <Property Name="File">C:\temp\PSFramework-logging-Host.ps1</Property>
+    <Property Name="FunctionName">PSFramework-logging-Host.ps1</Property>
+    <Property Name="Level">Important</Property>
+    <Property Name="Line">8</Property>
+    <Property Name="Message">Hello World</Property>
+    <Property Name="ModuleName">&lt;Unknown&gt;</Property>
+    <Property Name="Runspace">c0f332a8-4ca2-4995-9dc2-d7495d5e5155</Property>
+    <Property Name="Tags"></Property>
+    <Property Name="TargetObject" />
+    <Property Name="Timestamp">8/21/2024 6:51:28 AM</Property>
+    <Property Name="Type">Information, Debug</Property>
+    <Property Name="Username">DESKTOP-9KHVRUI\Admin-Abdullah</Property>
+</Object>
+<Object>
+    <Property Name="ComputerName">DESKTOP-9KHVRUI</Property>
+    <Property Name="File">C:\temp\PSFramework-logging-Host.ps1</Property>
+    <Property Name="FunctionName">PSFramework-logging-Host.ps1</Property>
+    <Property Name="Level">Important</Property>
+    <Property Name="Line">8</Property>
+    <Property Name="Message">Hello World</Property>
+    <Property Name="ModuleName">&lt;Unknown&gt;</Property>
+    <Property Name="Runspace">c0f332a8-4ca2-4995-9dc2-d7495d5e5155</Property>
+    <Property Name="Tags"></Property>
+    <Property Name="TargetObject" />
+    <Property Name="Timestamp">8/21/2024 6:55:28 AM</Property>
+    <Property Name="Type">Information, Debug</Property>
+    <Property Name="Username">DESKTOP-9KHVRUI\Admin-Abdullah</Property>
+</Object>
+<Object>
+    <Property Name="ComputerName">DESKTOP-9KHVRUI</Property>
+    <Property Name="File">C:\temp\PSFramework-logging-Host.ps1</Property>
+    <Property Name="FunctionName">PSFramework-logging-Host.ps1</Property>
+    <Property Name="Level">Important</Property>
+    <Property Name="Line">10</Property>
+    <Property Name="Message">Operation completed successfully.</Property>
+    <Property Name="ModuleName">&lt;Unknown&gt;</Property>
+    <Property Name="Runspace">c0f332a8-4ca2-4995-9dc2-d7495d5e5155</Property>
+    <Property Name="Tags"></Property>
+    <Property Name="TargetObject" />
+    <Property Name="Timestamp">8/21/2024 6:55:28 AM</Property>
+    <Property Name="Type">Information, Debug</Property>
+    <Property Name="Username">DESKTOP-9KHVRUI\Admin-Abdullah</Property>
+</Object>
+<Object>
+    <Property Name="ComputerName">DESKTOP-9KHVRUI</Property>
+    <Property Name="File">C:\temp\PSFramework-logging-Host.ps1</Property>
+    <Property Name="FunctionName">PSFramework-logging-Host.ps1</Property>
+    <Property Name="Level">Important</Property>
+    <Property Name="Line">8</Property>
+    <Property Name="Message">Hello World</Property>
+    <Property Name="ModuleName">&lt;Unknown&gt;</Property>
+    <Property Name="Runspace">c0f332a8-4ca2-4995-9dc2-d7495d5e5155</Property>
+    <Property Name="Tags"></Property>
+    <Property Name="TargetObject" />
+    <Property Name="Timestamp">8/21/2024 6:58:45 AM</Property>
+    <Property Name="Type">Information, Debug</Property>
+    <Property Name="Username">DESKTOP-9KHVRUI\Admin-Abdullah</Property>
+</Object>
+<Object>
+    <Property Name="ComputerName">DESKTOP-9KHVRUI</Property>
+    <Property Name="File">C:\temp\PSFramework-logging-Host.ps1</Property>
+    <Property Name="FunctionName">PSFramework-logging-Host.ps1</Property>
+    <Property Name="Level">Important</Property>
+    <Property Name="Line">10</Property>
+    <Property Name="Message">Operation completed successfully.</Property>
+    <Property Name="ModuleName">&lt;Unknown&gt;</Property>
+    <Property Name="Runspace">c0f332a8-4ca2-4995-9dc2-d7495d5e5155</Property>
+    <Property Name="Tags"></Property>
+    <Property Name="TargetObject" />
+    <Property Name="Timestamp">8/21/2024 6:58:45 AM</Property>
+    <Property Name="Type">Information, Debug</Property>
+    <Property Name="Username">DESKTOP-9KHVRUI\Admin-Abdullah</Property>
+</Object>
+<Object>
+    <Property Name="ComputerName">DESKTOP-9KHVRUI</Property>
+    <Property Name="File">C:\temp\PSFramework-logging-Host.ps1</Property>
+    <Property Name="FunctionName">PSFramework-logging-Host.ps1</Property>
+    <Property Name="Level">Debug</Property>
+    <Property Name="Line">12</Property>
+    <Property Name="Message">Variable X has been set to 123.</Property>
+    <Property Name="ModuleName">&lt;Unknown&gt;</Property>
+    <Property Name="Runspace">c0f332a8-4ca2-4995-9dc2-d7495d5e5155</Property>
+    <Property Name="Tags"></Property>
+    <Property Name="TargetObject" />
+    <Property Name="Timestamp">8/21/2024 6:58:45 AM</Property>
+    <Property Name="Type">Debug</Property>
+    <Property Name="Username">DESKTOP-9KHVRUI\Admin-Abdullah</Property>
+</Object>
+<Object>
+    <Property Name="ComputerName">DESKTOP-9KHVRUI</Property>
+    <Property Name="File">C:\temp\PSFramework-logging-Host.ps1</Property>
+    <Property Name="FunctionName">PSFramework-logging-Host.ps1</Property>
+    <Property Name="Level">Important</Property>
+    <Property Name="Line">8</Property>
+    <Property Name="Message">Hello World</Property>
+    <Property Name="ModuleName">&lt;Unknown&gt;</Property>
+    <Property Name="Runspace">c0f332a8-4ca2-4995-9dc2-d7495d5e5155</Property>
+    <Property Name="Tags"></Property>
+    <Property Name="TargetObject" />
+    <Property Name="Timestamp">8/21/2024 7:02:09 AM</Property>
+    <Property Name="Type">Information, Debug</Property>
+    <Property Name="Username">DESKTOP-9KHVRUI\Admin-Abdullah</Property>
+</Object>
+<Object>
+    <Property Name="ComputerName">DESKTOP-9KHVRUI</Property>
+    <Property Name="File">C:\temp\PSFramework-logging-Host.ps1</Property>
+    <Property Name="FunctionName">PSFramework-logging-Host.ps1</Property>
+    <Property Name="Level">Important</Property>
+    <Property Name="Line">10</Property>
+    <Property Name="Message">Operation completed successfully.</Property>
+    <Property Name="ModuleName">&lt;Unknown&gt;</Property>
+    <Property Name="Runspace">c0f332a8-4ca2-4995-9dc2-d7495d5e5155</Property>
+    <Property Name="Tags"></Property>
+    <Property Name="TargetObject" />
+    <Property Name="Timestamp">8/21/2024 7:02:09 AM</Property>
+    <Property Name="Type">Information, Debug</Property>
+    <Property Name="Username">DESKTOP-9KHVRUI\Admin-Abdullah</Property>
+</Object>
+<Object>
+    <Property Name="ComputerName">DESKTOP-9KHVRUI</Property>
+    <Property Name="File">C:\temp\PSFramework-logging-Host.ps1</Property>
+    <Property Name="FunctionName">PSFramework-logging-Host.ps1</Property>
+    <Property Name="Level">Debug</Property>
+    <Property Name="Line">12</Property>
+    <Property Name="Message">Variable X has been set to 123.</Property>
+    <Property Name="ModuleName">&lt;Unknown&gt;</Property>
+    <Property Name="Runspace">c0f332a8-4ca2-4995-9dc2-d7495d5e5155</Property>
+    <Property Name="Tags"></Property>
+    <Property Name="TargetObject" />
+    <Property Name="Timestamp">8/21/2024 7:02:09 AM</Property>
+    <Property Name="Type">Debug</Property>
+    <Property Name="Username">DESKTOP-9KHVRUI\Admin-Abdullah</Property>
+</Object>
+<Object>
+    <Property Name="ComputerName">DESKTOP-9KHVRUI</Property>
+    <Property Name="File">C:\temp\PSFramework-logging-Host.ps1</Property>
+    <Property Name="FunctionName">PSFramework-logging-Host.ps1</Property>
+    <Property Name="Level">Verbose</Property>
+    <Property Name="Line">14</Property>
+    <Property Name="Message">Starting the data import process.</Property>
+    <Property Name="ModuleName">&lt;Unknown&gt;</Property>
+    <Property Name="Runspace">c0f332a8-4ca2-4995-9dc2-d7495d5e5155</Property>
+    <Property Name="Tags"></Property>
+    <Property Name="TargetObject" />
+    <Property Name="Timestamp">8/21/2024 7:02:09 AM</Property>
+    <Property Name="Type">Verbose, Debug</Property>
+    <Property Name="Username">DESKTOP-9KHVRUI\Admin-Abdullah</Property>
+</Object>

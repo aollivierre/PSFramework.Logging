@@ -1,0 +1,210 @@
+﻿{
+    "ComputerName": "DESKTOP-9KHVRUI",
+    "File": "C:\\temp\\PSFramework-logging-Logfile-All.ps1",
+    "FunctionName": "PSFramework-logging-Logfile-All.ps1",
+    "Level": 2,
+    "Line": 35,
+    "Message": "Hello World in Json",
+    "ModuleName": "<Unknown>",
+    "Runspace": "c0f332a8-4ca2-4995-9dc2-d7495d5e5155",
+    "Tags": "",
+    "TargetObject": null,
+    "Timestamp": "8/21/2024 6:23:57 AM",
+    "Type": 5,
+    "Username": "DESKTOP-9KHVRUI\\Admin-Abdullah"
+}
+{
+    "ComputerName": "DESKTOP-9KHVRUI",
+    "File": "C:\\temp\\PSFramework-logging-Logfile-All.ps1",
+    "FunctionName": "PSFramework-logging-Logfile-All.ps1",
+    "Level": 2,
+    "Line": 35,
+    "Message": "Hello World in XML",
+    "ModuleName": "<Unknown>",
+    "Runspace": "c0f332a8-4ca2-4995-9dc2-d7495d5e5155",
+    "Tags": "",
+    "TargetObject": null,
+    "Timestamp": "8/21/2024 6:23:58 AM",
+    "Type": 5,
+    "Username": "DESKTOP-9KHVRUI\\Admin-Abdullah"
+}
+{
+    "ComputerName": "DESKTOP-9KHVRUI",
+    "File": "C:\\temp\\PSFramework-logging-Logfile-All.ps1",
+    "FunctionName": "PSFramework-logging-Logfile-All.ps1",
+    "Level": 2,
+    "Line": 35,
+    "Message": "Hello World in CSV",
+    "ModuleName": "<Unknown>",
+    "Runspace": "c0f332a8-4ca2-4995-9dc2-d7495d5e5155",
+    "Tags": "",
+    "TargetObject": null,
+    "Timestamp": "8/21/2024 6:23:59 AM",
+    "Type": 5,
+    "Username": "DESKTOP-9KHVRUI\\Admin-Abdullah"
+}
+{
+    "ComputerName": "DESKTOP-9KHVRUI",
+    "File": "C:\\temp\\PSFramework-logging-Host.ps1",
+    "FunctionName": "PSFramework-logging-Host.ps1",
+    "Level": 2,
+    "Line": 8,
+    "Message": "Hello World",
+    "ModuleName": "<Unknown>",
+    "Runspace": "c0f332a8-4ca2-4995-9dc2-d7495d5e5155",
+    "Tags": "",
+    "TargetObject": null,
+    "Timestamp": "8/21/2024 6:41:16 AM",
+    "Type": 5,
+    "Username": "DESKTOP-9KHVRUI\\Admin-Abdullah"
+}
+{
+    "ComputerName": "DESKTOP-9KHVRUI",
+    "File": "C:\\temp\\PSFramework-logging-Host.ps1",
+    "FunctionName": "PSFramework-logging-Host.ps1",
+    "Level": 2,
+    "Line": 8,
+    "Message": "Hello World",
+    "ModuleName": "<Unknown>",
+    "Runspace": "c0f332a8-4ca2-4995-9dc2-d7495d5e5155",
+    "Tags": "",
+    "TargetObject": null,
+    "Timestamp": "8/21/2024 6:51:28 AM",
+    "Type": 5,
+    "Username": "DESKTOP-9KHVRUI\\Admin-Abdullah"
+}
+{
+    "ComputerName": "DESKTOP-9KHVRUI",
+    "File": "C:\\temp\\PSFramework-logging-Host.ps1",
+    "FunctionName": "PSFramework-logging-Host.ps1",
+    "Level": 2,
+    "Line": 8,
+    "Message": "Hello World",
+    "ModuleName": "<Unknown>",
+    "Runspace": "c0f332a8-4ca2-4995-9dc2-d7495d5e5155",
+    "Tags": "",
+    "TargetObject": null,
+    "Timestamp": "8/21/2024 6:55:28 AM",
+    "Type": 5,
+    "Username": "DESKTOP-9KHVRUI\\Admin-Abdullah"
+}
+{
+    "ComputerName": "DESKTOP-9KHVRUI",
+    "File": "C:\\temp\\PSFramework-logging-Host.ps1",
+    "FunctionName": "PSFramework-logging-Host.ps1",
+    "Level": 2,
+    "Line": 10,
+    "Message": "Operation completed successfully.",
+    "ModuleName": "<Unknown>",
+    "Runspace": "c0f332a8-4ca2-4995-9dc2-d7495d5e5155",
+    "Tags": "",
+    "TargetObject": null,
+    "Timestamp": "8/21/2024 6:55:28 AM",
+    "Type": 5,
+    "Username": "DESKTOP-9KHVRUI\\Admin-Abdullah"
+}
+{
+    "ComputerName": "DESKTOP-9KHVRUI",
+    "File": "C:\\temp\\PSFramework-logging-Host.ps1",
+    "FunctionName": "PSFramework-logging-Host.ps1",
+    "Level": 2,
+    "Line": 8,
+    "Message": "Hello World",
+    "ModuleName": "<Unknown>",
+    "Runspace": "c0f332a8-4ca2-4995-9dc2-d7495d5e5155",
+    "Tags": "",
+    "TargetObject": null,
+    "Timestamp": "8/21/2024 6:58:45 AM",
+    "Type": 5,
+    "Username": "DESKTOP-9KHVRUI\\Admin-Abdullah"
+}
+{
+    "ComputerName": "DESKTOP-9KHVRUI",
+    "File": "C:\\temp\\PSFramework-logging-Host.ps1",
+    "FunctionName": "PSFramework-logging-Host.ps1",
+    "Level": 2,
+    "Line": 10,
+    "Message": "Operation completed successfully.",
+    "ModuleName": "<Unknown>",
+    "Runspace": "c0f332a8-4ca2-4995-9dc2-d7495d5e5155",
+    "Tags": "",
+    "TargetObject": null,
+    "Timestamp": "8/21/2024 6:58:45 AM",
+    "Type": 5,
+    "Username": "DESKTOP-9KHVRUI\\Admin-Abdullah"
+}
+{
+    "ComputerName": "DESKTOP-9KHVRUI",
+    "File": "C:\\temp\\PSFramework-logging-Host.ps1",
+    "FunctionName": "PSFramework-logging-Host.ps1",
+    "Level": 8,
+    "Line": 12,
+    "Message": "Variable X has been set to 123.",
+    "ModuleName": "<Unknown>",
+    "Runspace": "c0f332a8-4ca2-4995-9dc2-d7495d5e5155",
+    "Tags": "",
+    "TargetObject": null,
+    "Timestamp": "8/21/2024 6:58:45 AM",
+    "Type": 4,
+    "Username": "DESKTOP-9KHVRUI\\Admin-Abdullah"
+}
+{
+    "ComputerName": "DESKTOP-9KHVRUI",
+    "File": "C:\\temp\\PSFramework-logging-Host.ps1",
+    "FunctionName": "PSFramework-logging-Host.ps1",
+    "Level": 2,
+    "Line": 8,
+    "Message": "Hello World",
+    "ModuleName": "<Unknown>",
+    "Runspace": "c0f332a8-4ca2-4995-9dc2-d7495d5e5155",
+    "Tags": "",
+    "TargetObject": null,
+    "Timestamp": "8/21/2024 7:02:09 AM",
+    "Type": 5,
+    "Username": "DESKTOP-9KHVRUI\\Admin-Abdullah"
+}
+{
+    "ComputerName": "DESKTOP-9KHVRUI",
+    "File": "C:\\temp\\PSFramework-logging-Host.ps1",
+    "FunctionName": "PSFramework-logging-Host.ps1",
+    "Level": 2,
+    "Line": 10,
+    "Message": "Operation completed successfully.",
+    "ModuleName": "<Unknown>",
+    "Runspace": "c0f332a8-4ca2-4995-9dc2-d7495d5e5155",
+    "Tags": "",
+    "TargetObject": null,
+    "Timestamp": "8/21/2024 7:02:09 AM",
+    "Type": 5,
+    "Username": "DESKTOP-9KHVRUI\\Admin-Abdullah"
+}
+{
+    "ComputerName": "DESKTOP-9KHVRUI",
+    "File": "C:\\temp\\PSFramework-logging-Host.ps1",
+    "FunctionName": "PSFramework-logging-Host.ps1",
+    "Level": 8,
+    "Line": 12,
+    "Message": "Variable X has been set to 123.",
+    "ModuleName": "<Unknown>",
+    "Runspace": "c0f332a8-4ca2-4995-9dc2-d7495d5e5155",
+    "Tags": "",
+    "TargetObject": null,
+    "Timestamp": "8/21/2024 7:02:09 AM",
+    "Type": 4,
+    "Username": "DESKTOP-9KHVRUI\\Admin-Abdullah"
+}
+{
+    "ComputerName": "DESKTOP-9KHVRUI",
+    "File": "C:\\temp\\PSFramework-logging-Host.ps1",
+    "FunctionName": "PSFramework-logging-Host.ps1",
+    "Level": 5,
+    "Line": 14,
+    "Message": "Starting the data import process.",
+    "ModuleName": "<Unknown>",
+    "Runspace": "c0f332a8-4ca2-4995-9dc2-d7495d5e5155",
+    "Tags": "",
+    "TargetObject": null,
+    "Timestamp": "8/21/2024 7:02:09 AM",
+    "Type": 6,
+    "Username": "DESKTOP-9KHVRUI\\Admin-Abdullah"
+}
