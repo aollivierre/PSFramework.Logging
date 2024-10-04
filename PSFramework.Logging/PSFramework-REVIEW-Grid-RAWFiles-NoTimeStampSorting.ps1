@@ -30,7 +30,8 @@
 #endregion FIRING UP MODULE STARTER
 
 # Define the path to search for CSV log files
-$customLogDir = "C:\Users\Admin-Abdullah\AppData\Roaming\WindowsPowerShell\PSFramework\Logs"
+# $customLogDir = "C:\Users\Admin-Abdullah\AppData\Roaming\WindowsPowerShell\PSFramework\Logs"
+$customLogDir = "c:\logs"
 
 # Initialize a Generic List to store all log entries
 $allLogEntries = [System.Collections.Generic.List[PSCustomObject]]::new()
@@ -62,7 +63,12 @@ try {
         Recurse = $true
     }
     
-    $logFiles = Get-ChildItem @GetChildItemParams
+    # $logFiles = Get-ChildItem @GetChildItemParams
+
+    # Get all log files but exclude the C:\logs\transcript folder
+    $logFiles = Get-ChildItem @GetChildItemParams | Where-Object {
+        $_.FullName -notlike 'C:\logs\transcript*'
+    }
 
     # Sort the log files by their creation time
     $logFiles = $logFiles | Sort-Object -Property CreationTime
